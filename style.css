@@ -1,0 +1,50 @@
+body {
+  background-color: orange;
+  color: green;
+  font-family: 'verdana';
+  background-image: url(images/pow-star.png)
+}
+header {
+  background-color: white;
+}
+section {
+  border: 15px solid gainsboro;
+  background-color:;
+  margin: 30px
+  padding: 30px
+}
+h1 {
+  font-size: 40px;
+  color: blue;
+}
+
+h2 {
+  font-size: 40px;
+  color: red;
+}
+.title {
+  font-size: 60px;
+  text-decoration: underline;
+  text-align: center;
+}
+.container {
+  max-width: 1000px
+  /*option 1*/
+  margin: 0 auto;
+
+  /*option 2*/
+
+}
+header,
+section,
+footer {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.column {
+  width: 50%;
+  float: left
+}
