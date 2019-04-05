@@ -48,9 +48,8 @@ footer {
   float: left
 }
 
-.iframe {
-  padding-left: 100px;
-  padding-right: 100px;
+iframe {
+  video-align: center;
 }
 
 p {
